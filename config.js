@@ -40,7 +40,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/lembar_jawaban14' //Link Instagrammu
 global.sgh = 'https://github.com/Lucife-Putra' //Link Githubmu
-global.sgc = https: '//chat.whatsapp.com/EYndW37pgAN7yTOZxuIfqc'
+global.sgc = 'https://chat.whatsapp.com/EYndW37pgAN7yTOZxuIfqc'
 global.gcbot = 'https://chat.whatsapp.com/EYndW37pgAN7yTOZxuIfqc'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.syt = 'https://www.youtube.com/@ZalxZhu'
